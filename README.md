@@ -1,6 +1,8 @@
 # Scorm
 Ce projet est un module SCORM 1.2 interactif destiné à améliorer l'argumentaire de vente des formations en mathématiques.  
 Il peut être importé dans n'importe quel LMS compatible SCORM.
+Il est possible de visualiser la formation via ce lien sur la plateforme StromCloud :
+https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=011132aa-75d7-43e8-8f66-dc1945f5e915
 
 ## Fonctionnalités
 
@@ -28,5 +30,8 @@ Il peut être importé dans n'importe quel LMS compatible SCORM.
 - SCORM 1.2
 - API SCORM `LMSInitialize`, `LMSSetValue`, `LMSFinish`, etc.
 
-
+## Fichiers médias
+les fichiers suivants contiennent des images 
+├──Capture_ecran_formation_bosse_math.jpg
+├──traffic-cone-31883_1280
 
