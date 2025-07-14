@@ -41,9 +41,11 @@ ou une démontration dans le fichier captures_écran.docx
 - SCORM 1.2
 - API SCORM `LMSInitialize`, `LMSSetValue`, `LMSFinish`, etc.
 
-## Fichiers médias
+## Fichiers médias et documentations
 les fichiers suivants contiennent des images 
 ├──Capture_ecran_formation_bosse_math.jpg
 ├──traffic-cone-31883_1280
 Le fichier docx montre le fonctionnement de la formation sur SCORMcloud
 ├──captures_écran.docx 
+Le fichier storyboard_SCORM.docx contient le storyboard de la formation dans son entièreté et fait part du déroulement des séances en présentiel et en distanciel.
+├──storyboard_SCORM.docx 
